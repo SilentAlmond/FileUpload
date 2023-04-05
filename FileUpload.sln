@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fileupload", "Fileupload\Fileupload.csproj", "{A0144D1A-A717-433C-8FAE-6F0C03AA4D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0144D1A-A717-433C-8FAE-6F0C03AA4D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0144D1A-A717-433C-8FAE-6F0C03AA4D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0144D1A-A717-433C-8FAE-6F0C03AA4D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0144D1A-A717-433C-8FAE-6F0C03AA4D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F98046F-B25C-4636-BE28-B07FA50852C2}
+	EndGlobalSection
+EndGlobal
